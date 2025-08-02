@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rootstock Bitcoin",
+    "symbol": "RBTC",
+    "contract_address": "0x0000000000000000000000000000000001000006",
+    "website": "https://rootstock.io",
+    "audit_link": "N/A",
+    "status": "verified"
+  },
+  {
+    "name": "Sovryn",
+    "symbol": "SOV",
+    "contract_address": "0xefc78fc7d48b64958315949279ba181c2114abbd",
+    "website": "https://sovryn.com",
+    "audit_link": "https://docs.sovryn.app/en/technical-docs/security/audits",
+    "status": "verified"
+  },
+  {
+    "name": "Dollar On Chain",
+    "symbol": "DOC",
+    "contract_address": "0x7d469b9fcd0cdaffae2df4e6d02727092a77a0a5",
+    "website": "https://www.moneyonchain.com/",
+    "audit_link": "https://github.com/money-on-chain/Audits",
+    "status": "verified"
+  }
+]
